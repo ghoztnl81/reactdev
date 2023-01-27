@@ -1,7 +1,41 @@
+body {
+  padding-top: 70px;
+}
+
 .App {
   text-align: center;
 }
 
+.bg-light {
+  background-color: white !important;
+}
+
+.navbar-brand {
+  padding: 5px;
+  border-right: 3px solid red;
+}
+
+.coaching-logo {
+  padding: 10px;
+  border-right: 3px solid blue;
+}
+
+.facilitation-logo {
+  padding: 10px;
+  border-right: 3px solid orange;
+}
+
+.management-logo {
+  padding: 10px;
+  border-right: 3px solid green;
+}
+
+.about-logo {
+  padding: 10px;
+  border-right: 3px solid grey;
+}
+
+/* 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,4 +69,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
